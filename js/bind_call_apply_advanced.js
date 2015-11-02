@@ -188,14 +188,14 @@
 
 
 // An array-like object: note the non-negative integers used as keys
-var anArrayLikeObj = {
-    0: "Martin",
-    1: 78,
-    2: 67,
-    3: ["Letta", "Marieta", "Pauline"],
-    length: 4
-
-};
+//var anArrayLikeObj = {
+//    0: "Martin",
+//    1: 78,
+//    2: 67,
+//    3: ["Letta", "Marieta", "Pauline"],
+//    length: 4
+//
+//};
 
 // Make a quick copy and save the results in a real array:​
 // First parameter sets the "this" value​
